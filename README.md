@@ -1,2 +1,2 @@
 # Foreman
-Upload a CAD file, get a plain-language manufacturability report before you cut.
+AI-powered manufacturability audit for fabrication and machining shops that catches CAD design errors before they hit the machine floor.
